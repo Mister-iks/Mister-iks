@@ -1,2 +1,3 @@
 # Hokage_8e
-About Me
+:wave: :wave: Hello World :smile: !, I'm Mister Iks
+
