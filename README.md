@@ -7,11 +7,9 @@ Fullstack-web developer specializing in development with java and everything aro
   <a href="https://twitter.com/Mister__iks"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-👩‍💻 I'm currently working on 
+👩‍💻 I'm currently working on ...🤫🤫 top secret
 
 🧠 I'm currently learning everythings related to tech
-
-👯‍♀️ I'm looking to collaborate on...
 
 💬 Ask me about web development and soft skills and project management
 
