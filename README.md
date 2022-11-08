@@ -1,16 +1,43 @@
-###                       HELLO WORLD ! it's Ibrahima Khalilou Lahi Samb 👋
+# Hi 👋 I'm ***Mister iks*** 
 
-<h2 align="center">I'm Backend Developer and Cybersecurity Enthusiast 🤫 from Senegal </h2>
-<p> Working with technologies such as </p>
-<ul>
-<li>Java ☕</li>
-<li>Php 🐘</li>
-<li>Aws ☁</li>
-<li>Spring boot /Spring cloud/ Spring Security 💚</li>
-<li>Laravel ❤</li>
-</ul>
+Fullstack-web developer specializing in development with java and everything around it and also a cyberssecurity enthisiast.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahima-samb-dev"><img alt="linkedin" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Mister__iks"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-<div style="width:3cm; margin:0 auto;color:red;"><h2> It's End 😂</h2></div>
+👩‍💻 I'm currently working on 
+
+🧠 I'm currently learning everythings related to tech
+
+👯‍♀️ I'm looking to collaborate on...
+
+💬 Ask me about web development and soft skills and project management
 
 
-<!--<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhalilouLahi-Samb" alt="KhalilouLahi-Samb" /></a> </p>-->
+
+## 🛠 Skills
+<section "skills">
+<h3>Web development</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahima-samb-dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,angular" />
+  </a>
+</p>
+
+
+<h3>Tools</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahima-samb-dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github," />
+  </a>
+</p> 
+
+<h3>Cloud & Devops</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahima-samb-dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,ec2" />
+  </a>
+</p> 
+</section>
