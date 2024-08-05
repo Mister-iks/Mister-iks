@@ -1,12 +1,14 @@
 # Hi there! 👋 I'm ***Mister iks***
+<p align="center">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" />
+</p>
 
-![Developer GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 **🖥️Jr Backend Engineer** | **Building Web & AI Solutions 🚀** | **Proficient in Python, Java, and PHP**
 ---
 
 ## 🌟 About Me
-Hey! I'm Ibrahima Samb, also known as Mister iks. My passion lies in building robust and scalable web solutions. I have a strong affinity for Java and a keen interest in cybersecurity. When I'm not coding, I'm usually exploring the latest trends in technology.
+Hey! I'm Ibrahima Khalilou Lahi Samb, also known as Mister iks. My passion lies in building web and AI solutions. I have a strong affinity for Python and a keen interest in cybersecurity. When I'm not coding, I'm usually exploring the latest trends in technology.
 
 - 🚀 **Currently working on:** Top secret projects 🤫
 - 🌱 **Always learning:** Everything tech, from cloud computing to the latest in AI
@@ -19,7 +21,7 @@ Here's a glimpse of my technical arsenal:
 
 ### Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,angular" alt="Web Development Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,wordpress" alt="Web Development Skills" />
 </p>
 
 ### Tools & IDEs
@@ -53,4 +55,4 @@ I'm always open to connecting with like-minded individuals. Let's chat, collabor
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
