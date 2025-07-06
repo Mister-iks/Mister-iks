@@ -1,58 +1,79 @@
-# Hi there! 👋 I'm ***Mister iks***
+# Hi there! 👋 I'm Mister iks
+
 <p align="center">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" />
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Guy" />
 </p>
 
-
-**🖥️Jr Backend Engineer** | **Building Web & AI Solutions 🚀** | **Proficient in Python, Java, and PHP**
----
-
-## 🌟 About Me
-Hey! I'm Ibrahima Khalilou Lahi Samb, also known as Mister iks. My passion lies in building web and AI solutions. I have a strong affinity for Python and a keen interest in cybersecurity. When I'm not coding, I'm usually exploring the latest trends in technology.
-
-- 🚀 **Currently working on:** Top secret projects 🤫
-- 🌱 **Always learning:** Everything tech, from cloud computing to the latest in AI
-- 💬 **Ask me about:** Web development, soft skills, and project management
+**🔐 Backend Developer | 🧠 Cybersecurity & AI Enthusiast**
 
 ---
 
-## 🛠️ Skills & Tools
-Here's a glimpse of my technical arsenal:
+## 🚀 About Me
 
-### Web Development
+I'm a back-end developer with a strong foundation in **cybersecurity** and a passion for **AI integration**. With over 3 years of experience, I've built secure, scalable, and innovative web platforms for domains like **health**, **public administration**, **defense**, and **education**.
+
+💡 Whether it’s deploying microservices, securing APIs, or building intelligent assistants, I thrive at the intersection of **development**, **security**, and **innovation**.
+
+- 🧠 **R&D Projects**:
+  - 🔴 `PcyBox RedTeamCLI` — simulate red team attacks
+  - 💬 `AI SUGGEST` — natural language Linux assistant
+  - 🧮 `SqlBuddy` — AI-powered SQL query generator
+
+---
+
+## 🧰 Tech Stack
+
+### 🖥️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,wordpress" alt="Web Development Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,java" />
 </p>
 
-### Tools & IDEs
+### 🛠️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Tools & IDEs" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
 </p>
 
-### Cloud & DevOps
+### 🌐 Front-end & CMS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,ec2" alt="Cloud & DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=angular,wordpress" />
+</p>
+
+### 🗃️ Database & ETL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Cybersecurity & AI
+
+- OSINT & Threat Intelligence 🕵️
+- App & API Security 🔐
+- Red Team Simulations 🎯
+- IA Tools & Natural Language Interfaces 🤖
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mister-iks&show_icons=true&theme=radical" alt="Mister iks GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-iks&layout=compact&theme=radical" alt="Mister iks Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mister-iks&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-iks&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-I'm always open to connecting with like-minded individuals. Let's chat, collaborate, or just share ideas!
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahima-samb-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Mister__iks"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Mister__iks"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ibrahimapro289@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-
+> *“Build Secure. Think AI. Go Beyond.”* – Mister iks
