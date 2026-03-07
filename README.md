@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Guy" />
 </p>
 <p align="center">
-🔐 Backend Developer | Building AI-Powered Cybersecurity Tools
+🔐 Backend Engineer | AppSec & OSINT
 </p>
 
 ## 🚀 About Me
