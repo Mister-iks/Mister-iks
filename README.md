@@ -1,23 +1,40 @@
-# Hello, I'm Mister iks
+# Hey, I'm Mister Iks 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-Engineer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AppSec%20%26%20OSINT-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Integration-green?style=flat-square" />
-</p>
+**Backend Engineer · Application Security · Builder**
 
-* **🌐Web**
-* **🛡️AppSec**
-* **🔍OSINT**
-* **🤖 AI**
+I build software, break it, secure it, and sometimes build the tools needed to do it better.
 
-### 💻 Tech Stack
+```text
+Backend       → APIs · Architecture · Performance
+Security      → AppSec · Secure Coding · DevSecOps
+Research      → OSINT · Security Research
+AI            → AI × Software × Security
+```
+
+### 🛠️ I work with
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,java,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,php,django,flask,laravel,linux,docker,git&theme=dark" />
 </div>
 
+### 🔐 What you'll find here
 
-<p align="right">
-  <i>"Secure tomorrow, Today."</i>
+- Security research & experiments
+- Backend projects
+- Application security tooling
+- Developer utilities
+- Open-source projects
+- Things I build because I was curious
+
+### 🚧 Currently building
+
+**PCYBOX** - cybersecurity R&D focused on building sovereign technologies designed for real-world African needs.
+
+---
+
+> **Security isn't something you add at the end.  
+> It's something you build from the first line of code.**
+
+<p align="center">
+  <sub>Build. Break. Secure. Repeat.</sub>
 </p>
