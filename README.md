@@ -14,7 +14,7 @@ AI            → AI × Software × Security
 ### 🛠️ I work with
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,django,flask,laravel,linux,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,php,typescript,linux,docker,git&theme=dark" />
 </div>
 
 ### 🔐 What you'll find here
